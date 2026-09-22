@@ -1,4 +1,4 @@
-1.Project Setup 
+**1.Project Setup**
 
 Java 24
 Maven
@@ -6,7 +6,7 @@ VS Code
 
 
 
-2.API documentation
+**2.API documentation**
 
 api.http
 
